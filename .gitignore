@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+
+# YOLO model files
+*.pt
+*.onnx
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Python environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
